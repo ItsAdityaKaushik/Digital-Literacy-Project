@@ -1,0 +1,5 @@
+In this task, I explored coding and collaboration platforms. I used HackerRank to practice basic problem-solving by completing a beginner-level challenge. This helped me understand how coding platforms work and how they can improve logical thinking.
+
+I also created a Google Form titled "Digital Literacy Awareness Quiz" with five questions. The form includes both multiple-choice and short answer questions. After creating the form, I collected responses and viewed them using the response section and linked Google Sheet.
+
+These platforms are useful for academic purposes as they support coding practice, data collection, and collaboration.
